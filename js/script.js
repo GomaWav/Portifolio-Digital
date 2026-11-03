@@ -4,7 +4,7 @@ const projects = [
     title: "Landing Page - SESI",
     author: "Ângelo A. da Silva",
     category: "HTML & CSS",
-    image: "./img/landing page SESI.png",
+    image: "./img/Landing page SESI.png",
     description:
       "Nesse Projeto o objetivo era criar uma landing page funcional para um programa integrado as funcionalidades SESI para ajudar os estudantes a se inscreverem no ENEM"
   },
