@@ -4,7 +4,7 @@ const projects = [
     title: "Landing Page - SESI",
     author: "Ângelo A. da Silva",
     category: "HTML & CSS",
-    image: "https://i.ibb.co/HkLw62N/landing-page-SESI.png",
+    image: "./img/landing page SESI.png",
     description:
       "Nesse Projeto o objetivo era criar uma landing page funcional para um programa integrado as funcionalidades SESI para ajudar os estudantes a se inscreverem no ENEM"
   },
@@ -12,7 +12,7 @@ const projects = [
     title: "Pagina Revista de Moda",
     author: "Ângelo A. da Silva",
     category: "FIGMA - Desing Editorial",
-    image: "https://i.ibb.co/27nhrjDR/Captura-de-tela-2026-08-12-231747.png",
+    image: "./img/revista figma.png",
     description:
       "Projeto pensado para um treinamento de layouts utilizando a plataforma FIGMA. Estudo de ritmo visual e espaço negativo aplicado.",
   },
@@ -20,7 +20,7 @@ const projects = [
     title: "Pagina Dupla de Revista",
     author: "Ângelo A. da Silva",
     category: "FIGMA - Design Editorial",
-    image: "https://i.ibb.co/vCSkB0MR/Captura-de-tela-2026-08-12-231730.png",
+    image: "./img/pagina revista dupla.png",
     description:
       "Projeto pensado para um treinamento de layouts utilizando a plataforma FIGMA. Estudo de ritmo visual e espaço negativo aplicado.",
   },
@@ -28,7 +28,7 @@ const projects = [
     title: "Projeto Semestral - Flash Acadêmico",
     author: "Ângelo A. da Silva, Vitória de Souza Toppan",
     category: "HTML, CSS & JS",
-    image: "https://i.ibb.co/gZ9gp8JJ/Flash-Academico.png",
+    image: "./img/Flash Academico.png",
     description:
       "Projeto com objetivo de criar um site funcional do zero com paginação, identidade visual propria, .",
   },
@@ -36,7 +36,7 @@ const projects = [
     title: "Propaganda Vestibular - Morrison University",
     author: "Ângelo A. da Silva",
     category: "Photoshop & Illustrator - Desing Editorial ",
-    image: "https://i.ibb.co/LMrzmRY/atividade-7-angelo-a-da-silva.png",
+    image: "./img/image.png",
     description:
       "Projeto para a promoção de cursos de graduação em diversas áreas.",
   },
@@ -44,7 +44,7 @@ const projects = [
     title: "Primeiro site",
     author: "Ângelo A. da Silva",
     category: "HTML & CSS",
-    image: "https://i.ibb.co/Q3SC6K2W/Captura-de-tela-2026-08-20-122843.png",
+    image: "./img/primeiro site.png",
     description:
       "Minha primeira tentativa de fazer um site usando elementos de HTML & CSS.",
   },
@@ -52,7 +52,7 @@ const projects = [
     title: "Validador de Descontos",
     author: "Ângelo A. da Silva",
     category: "JavaScript",
-    image: "https://i.ibb.co/LXX2ZZ49/Validador-de-Desconto-de-E-commerce.png",
+    image: "./img/Validador de Desconto de E-commerce.png",
     description:
       "Um dos registros do começo do meu estudo em JS. O código em questão é usado para validar um desconto de uma loja online em relação a primeira compra ou ativação de um cupom pelo usuario.",
   },
@@ -60,7 +60,7 @@ const projects = [
     title: "Sorteio Power-Glove",
     author: "Arthur F. Almeida",
     category: "HTML, CSS & JS - Menção Honrrosa",
-    image: "https://i.ibb.co/FbWG29ds/power-glove.png",
+    image: "./img/sorteio power glove.png",
     description:
       "Projeto para construir um formulário onde o JS faria a verificação de dados inseridos pelo usuário.",
   },
